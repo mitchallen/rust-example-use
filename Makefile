@@ -12,6 +12,9 @@ format:
 lint:
 	cargo clippy --quiet
 
+build:
+	cargo build --quiet
+
 test:
 	cargo test --quiet
 

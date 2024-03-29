@@ -1,6 +1,9 @@
 rust-example-use
 ==
 
+[![Actions Status](https://github.com/mitchallen/rust-example-use/workflows/Build%20Test%20Run/badge.svg)](https://github.com/mitchallen/rust-example-use/actions)
+
+
 An example of using a GitHub hosted Rust dependency
 
 ## Usage
